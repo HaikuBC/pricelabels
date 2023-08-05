@@ -1,0 +1,20 @@
+{
+  "name": "price_tag_generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "bwip-js": "^3.4.4",
+    "canvas": "^2.11.2",
+    "express": "^4.18.2",
+    "jsbarcode": "^3.11.5",
+    "pdfkit": "^0.13.0"
+  }
+}
